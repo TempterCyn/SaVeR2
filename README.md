@@ -16,8 +16,6 @@ SAVeR² is a safety-alignment framework for large reasoning models that addresse
 
 We are preparing the implementation and documentation for public release. This repository will be updated with setup instructions and guidance for training and evaluation once the code is available.
 
-Please stay tuned, and thank you for your interest in our work!
-
 ---
 
 ## Citation
