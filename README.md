@@ -1,7 +1,5 @@
 # SAVeR²: Reasoning-based Safety Alignment for Large Reasoning Models via Verifiable Rewards
 
-Yichen Sun, Jianan Lin, Linbo Jiang, Shiyu Wang, Zhibo Wang, Zhixuan Chu
-
 ---
 
 ## Introduction
