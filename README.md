@@ -1,5 +1,4 @@
-# SAVeR²: Reasoning-based Safety Alignment for Large Reasoning Models via Verifiable Rewards
-
+# [SAVeR²: Reasoning-based Safety Alignment for Large Reasoning Models via Verifiable Rewards](https://arxiv.org/abs/2611.07482)
 ---
 
 ## Introduction
